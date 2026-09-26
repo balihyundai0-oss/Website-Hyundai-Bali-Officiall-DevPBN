@@ -1,20 +1,20 @@
 const products = [
 
-    ["CRETA", "Rp 375.500.000", "5 Type"],
+    ["CRETA", "Rp 354.600.000", "5 Type"],
 
-    ["CRETA N LINE", "Rp 283.400.000", "2 Type"],
+    ["CRETA N LINE", "Rp 354.600.000", "2 Type"],
 
-    ["SANTA FE", "Rp 746.200.000", "5 Type"],
+    ["SANTA FE", "Rp 757.900.000", "5 Type"],
 
-    ["PALISADE HEV", "Rp 674.000.000", "3 Type"],
+    ["PALISADE HEV", "Rp 1.156.800.000", "3 Type"],
 
-    ["LONIC 9", "Rp 1.127.000.000", "2 Type"],
+    ["LONIC 9", "Rp 1.547.000.000", "2 Type"],
 
-    ["STARGEZER CARTENZ X", "Rp 817.650.000", "3 Type"],
+    ["STARGEZER CARTENZ X", "Rp 383.950.000", "3 Type"],
 
-    ["STARGEZER CARTENZ", "Rp 574.350.000", "8 Type"],
+    ["STARGEZER CARTENZ", "Rp 254.900.000", "8 Type"],
 
-    ["IONIC 5", "Rp 965.500.000", "4 Type"],
+    ["IONIC 5", "Rp 817.650.000", "4 Type"],
 
 ];
 
