@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://balihyundai0-oss.github.io/Website-Hyundai-Bali-Official-DevPBN/sitemap.xml
